@@ -1,3 +1,8 @@
+
+![download (14)](https://github.com/user-attachments/assets/bcb79a3f-4156-4fcc-b5b6-f22eb063cf87)
+
+
+
 # ☕ Coffee Machine Simulation (OOP Python)
 
 A fully interactive Coffee Machine app that mimics the behavior of a real coffee machine. Users can select from drinks like espresso, latte, and cappuccino, insert coins, and get change—all while the system manages ingredients and tracks profit. The app is designed using Object-Oriented Programming to ensure modularity, clarity, and reusability.
