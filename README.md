@@ -37,8 +37,16 @@ A fully interactive Coffee Machine app that mimics the behavior of a real coffee
     coffee_maker.py
     money_machine.py
     menu.py
+## 📚 Course Credit
+This project is part of my learning journey through
+🎓 100 Days of Code – The Complete Python Pro Bootcamp for 2024 by Dr. Angela Yu
 
-🖼️ Preview
+## 🔗 Connect With Me
+📍 LinkedIn – https://www.linkedin.com/in/mussa-tariq-0652712a0/
+💻 GitHub – mussatariq55
+
+
+## 🖼️ Preview
   ```bash
   What would you like? (latte/espresso/cappuccino/): latte
   Please insert coins.
@@ -54,11 +62,3 @@ A fully interactive Coffee Machine app that mimics the behavior of a real coffee
   Milk: 50ml
   Coffee: 50g
   Money: $2.5
-
-## 📚 Course Credit
-This project is part of my learning journey through
-🎓 100 Days of Code – The Complete Python Pro Bootcamp for 2024 by Dr. Angela Yu
-
-## 🔗 Connect With Me
-📍 LinkedIn – Mussa Tariq
-💻 GitHub – @yourusername
